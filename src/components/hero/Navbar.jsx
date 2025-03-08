@@ -10,7 +10,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center h-16">
           <div className="flex-shrink-0">
             <figure className="text-2xl font-bold text-blue-600 hover:text-blue-700 transition-colors">
-              <Link to={"/"}>MyPortfolio</Link>
+              <Link to={"/"}>Portfolio</Link>
             </figure>
           </div>
 
