@@ -39,14 +39,14 @@ const Projects = () => {
                 </ul>
 
                 <div className="flex space-x-4 mt-4">
-                  <button className="flex-1 underline hover:cursor-pointer transition-colors duration-200">
+                  <button className="flex-1 underline hover:cursor-pointer hover:text-blue-500 transition-colors duration-200">
                     <a href={project.projectCode} target="_blank">
-                      View Project
+                      View code
                     </a>
                   </button>
-                  <button className="flex-1 underline hover:cursor-pointer transition-colors duration-200">
+                  <button className="flex-1 underline hover:cursor-pointer hover:text-blue-500 transition-colors duration-200">
                     <a href={project.live} target="_blank">
-                      View Live
+                      Go to site
                     </a>
                   </button>
                 </div>

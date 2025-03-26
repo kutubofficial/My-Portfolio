@@ -41,12 +41,13 @@ const projects = [
   },
   {
     id: 6,
-    name: "Restaurant Management System",
-    image: "/images/restaurant.jpg",
-    topics: ["HTML", "CSS", "JavaScript"],
-    projectCode: "https://github.com/kutubofficial",
-    live: "something went wrong",
+    name: "User Hive",
+    image: "/images/hive.png",
+    topics: ["React.js", "Tailwind CSS", "Authentication"],
+    projectCode: "https://github.com/kutubofficial/user-hive",
+    live: "https://user-hive599.netlify.app/",
   },
+
   {
     id: 7,
     name: "Login/Signup Authentication",
@@ -57,11 +58,11 @@ const projects = [
   },
   {
     id: 8,
-    name: "User Hive",
-    image: "/images/hive.JPG",
-    topics: ["React.js", "Tailwind CSS", "Authentication"],
-    projectCode: "https://github.com/kutubofficial/user-hive",
-    live: "https://user-hive599.netlify.app/",
+    name: "Restaurant Management System",
+    image: "/images/restaurant.jpg",
+    topics: ["HTML", "CSS", "JavaScript"],
+    projectCode: "https://github.com/kutubofficial",
+    live: "something went wrong",
   },
   {
     id: 9,
