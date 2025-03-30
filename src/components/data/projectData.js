@@ -59,10 +59,11 @@ const projects = [
   {
     id: 8,
     name: "Restaurant Management System",
-    image: "/images/restaurant.jpg",
+    image: "/images/restaurant2.png",
     topics: ["HTML", "CSS", "JavaScript"],
-    projectCode: "https://github.com/kutubofficial",
-    live: "something went wrong",
+    projectCode:
+      "https://github.com/kutubofficial/Restaurant-Management-System",
+    live: "https://restaurant-app599.netlify.app/",
   },
   {
     id: 9,
