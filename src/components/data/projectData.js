@@ -54,13 +54,13 @@ const projects = [
     image: "/images/loginImg.jpg",
     topics: ["React.js", "Node.js", "MongoDB"],
     projectCode: "https://github.com/kutubofficial",
-    live: "something went wrong",
+    live: "https://github.com/kutubofficial",
   },
   {
     id: 8,
     name: "Restaurant Management System",
     image: "/images/restaurant2.png",
-    topics: ["HTML", "CSS", "JavaScript"],
+    topics: ["React.js", "TailwindCSS", "Real-time", "React-icons"],
     projectCode:
       "https://github.com/kutubofficial/Restaurant-Management-System",
     live: "https://restaurant-app599.netlify.app/",
