@@ -51,9 +51,9 @@ const projects = [
   {
     id: 7,
     name: "Login/Signup Authentication",
-    image: "/images/loginImg.jpg",
+    image: "/images/login.png",
     topics: ["React.js", "Node.js", "MongoDB"],
-    projectCode: "https://github.com/kutubofficial",
+    projectCode: "https://github.com/kutubofficial/Login-Signup-App",
     live: "https://github.com/kutubofficial",
   },
   {

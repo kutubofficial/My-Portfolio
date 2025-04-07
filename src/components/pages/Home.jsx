@@ -46,9 +46,9 @@ const Home = () => {
                 Hello, I'm
               </span>
             </div>
-            <h1 className="text-6xl md:text-5xl font-bold mb-6 leading-tight">
+            <h1 className="text-4xl md:text-5xl font-bold mb-6 leading-tight">
               <span className="block ">KUTUBUDDIN ANSARI</span>
-              <span className="block text-3xl text-blue-600 md:text-4xl font-normal mt-4">
+              <span className="block text-2xl text-blue-600 md:text-4xl font-normal mt-4">
                 Front-End Developer
               </span>
             </h1>
@@ -57,7 +57,7 @@ const Home = () => {
               <span className="animate-pulse">|</span>
             </p>
             <div className="flex flex-col sm:flex-row gap-6 mt-10">
-              <button className="bg-transparent border border-white hover:bg-white/10 text-white px-4 py-2 rounded-full">
+              <button className="bg-transparent border border-white  hover:bg-white/10 text-white px-4 py-2 rounded-full">
                 <a
                   href="https://github.com/kutubofficial"
                   target="_blank"
@@ -66,7 +66,7 @@ const Home = () => {
                   View My Work →
                 </a>
               </button>
-              <button className="bg-blue-600 text-white px-4 py-3 rounded-full hover:bg-blue-700">
+              <button className="bg-blue-600 text-white px-4 py-3  rounded-full hover:bg-blue-700">
                 <a href={cv} target="_blank" rel="noopener noreferrer">
                   Download Resume
                 </a>
