@@ -30,7 +30,7 @@ const Home = () => {
   }, [index, bio]);
   return (
     <>
-      <section id="#homepage" className="relative h-screen overflow-hidden">
+      <section id="logo" className="relative h-screen overflow-hidden">
         <div className="absolute inset-0 z-[-10]">
           <img
             src={image}

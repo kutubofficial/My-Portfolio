@@ -8,7 +8,7 @@ const Navbar = () => {
     <nav className="bg-black/50 shadow-sm sticky top-0 z-[60] backdrop-blur-md ">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-6">
         <div className="flex justify-between items-center h-16">
-          <div className="flex-shrink-0">
+          <div id="logo" className="flex-shrink-0 ">
             <figure className="text-2xl font-bold text-blue-600 hover:text-blue-700 transition-colors">
               <Link to={"/"}>Portfolio</Link>
             </figure>

@@ -52,9 +52,9 @@ const projects = [
     id: 7,
     name: "Login/Signup Authentication",
     image: "/images/login.png",
-    topics: ["React.js", "Node.js", "MongoDB"],
+    topics: ["React.js", "Node.js", "MongoDB-Atlas", "Express.js", "CSS"],
     projectCode: "https://github.com/kutubofficial/Login-Signup-App",
-    live: "https://github.com/kutubofficial",
+    live: "https://login-auth599.netlify.app/",
   },
   {
     id: 8,
