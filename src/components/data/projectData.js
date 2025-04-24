@@ -17,6 +17,14 @@ const projects = [
   },
   {
     id: 3,
+    name: "Real-time Crypto Tracker",
+    image: "/images/crypto.png",
+    topics: ["React.js", "Tailwindcss", "Redux-toolkit", "WebSocket"],
+    projectCode: "https://github.com/kutubofficial/Real-time-crypto-tracker",
+    live: "https://real-time-crypto599.netlify.app/",
+  },
+  {
+    id: 4,
     name: "Slot Booking",
     image: "/images/slot.jpg",
     topics: ["React.js", "Tailwind CSS"],
@@ -24,7 +32,15 @@ const projects = [
     live: "https://slot-booking599.netlify.app/",
   },
   {
-    id: 4,
+    id: 5,
+    name: "Redux-ecommerce App",
+    image: "/images/reduxApp.png",
+    topics: ["React.js", "Tailwindcss", "Redux"],
+    projectCode: "https://github.com/kutubofficial/redux-ecommerce-app",
+    live: "https://redux-ecommerce-app599.vercel.app/",
+  },
+  {
+    id: 6,
     name: "Qshop Shopping App",
     image: "/images/shopping.png",
     topics: ["JavaScript", "HTML5", "CSS3"],
@@ -32,7 +48,7 @@ const projects = [
     live: "https://qshop599.netlify.app/",
   },
   {
-    id: 5,
+    id: 7,
     name: "Todo App",
     image: "/images/todo.PNG",
     topics: ["React.js", "CSS"],
@@ -40,7 +56,7 @@ const projects = [
     live: "https://todo-app599.netlify.app/",
   },
   {
-    id: 6,
+    id: 8,
     name: "User Hive",
     image: "/images/hive.png",
     topics: ["React.js", "Tailwind CSS", "Authentication"],
@@ -49,7 +65,7 @@ const projects = [
   },
 
   {
-    id: 7,
+    id: 9,
     name: "Login/Signup Authentication",
     image: "/images/login.png",
     topics: ["React.js", "Node.js", "MongoDB-Atlas", "Express.js", "CSS"],
@@ -57,7 +73,7 @@ const projects = [
     live: "https://login-auth599.netlify.app/",
   },
   {
-    id: 8,
+    id: 10,
     name: "Restaurant Management System",
     image: "/images/restaurant2.png",
     topics: ["React.js", "TailwindCSS", "Real-time", "React-icons"],
@@ -66,7 +82,7 @@ const projects = [
     live: "https://restaurant-app599.netlify.app/",
   },
   {
-    id: 9,
+    id: 11,
     name: "PopX App",
     image: "/images/popx.webp",
     topics: ["React.js", "Tailwindcss", "React-router"],
